@@ -2,7 +2,7 @@
 #elke keer dat je de functie aanroept voeg je een nieuwe game toe als parameter
 #weet je niet meer hoe? Check het solution filmpje op: https://www.linkedin.com/learning/programming-foundations-fundamentals-3/solution-favorite-cities
 def programmeertalen(favoriet):
-    print("Een van mijn favoriete programmeertalen is", favoriet)
+    print("Een van mijn favoriete programmeertalen is:", favoriet)
 
 programmeertalen("Python")
 programmeertalen("PHP")
